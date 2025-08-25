@@ -1,4 +1,4 @@
-# wearedev-api-proxy
+# wearedev-obfuscator-api-proxy
 
 A simple Vercel proxy to bypass CORS restrictions when using the [WeAreDevs Obfuscator API](https://wearedevs.net/api/obfuscate).
 
