@@ -6,6 +6,9 @@ A simple Vercel proxy to bypass CORS restrictions when using the [WeAreDevs Obfu
 The WeAreDevs API does not send CORS headers, so you cannot call it directly from the browser.  
 This proxy allows your frontend (React, Next.js, etc.) to communicate with it safely.
 
+### Note
+- you guys can freely use my deployed vercel, but you can deploy your own vercel if you want too.
+
 ## Deploy on Vercel
 1. Clone this repo or copy the `/api/obfuscate.js`, `vercel.json`, and `package.json` files.
 2. Push to your GitHub/GitLab/Bitbucket.
